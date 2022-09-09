@@ -1,0 +1,15 @@
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\bin\Debug\net6.0\HomeWork22Array3.exe
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\bin\Debug\net6.0\HomeWork22Array3.deps.json
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\bin\Debug\net6.0\HomeWork22Array3.runtimeconfig.json
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\bin\Debug\net6.0\HomeWork22Array3.dll
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\bin\Debug\net6.0\HomeWork22Array3.pdb
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\HomeWork22Array3.csproj.AssemblyReference.cache
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\HomeWork22Array3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\HomeWork22Array3.AssemblyInfoInputs.cache
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\HomeWork22Array3.AssemblyInfo.cs
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\HomeWork22Array3.csproj.CoreCompileInputs.cache
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\HomeWork22Array3.dll
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\refint\HomeWork22Array3.dll
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\HomeWork22Array3.pdb
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\HomeWork22Array3.genruntimeconfig.cache
+D:\Projects CS\HomeWork22Array3\HomeWork22Array3\obj\Debug\net6.0\ref\HomeWork22Array3.dll
