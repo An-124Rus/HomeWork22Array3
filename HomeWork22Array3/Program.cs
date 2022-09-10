@@ -9,9 +9,9 @@
         Random random = new Random();
 
         Console.WriteLine("Введите длину массива: ");
-        int rowLenth = Convert.ToInt32(Console.ReadLine());
+        int arrayLength = Convert.ToInt32(Console.ReadLine());
 
-        int[] array = new int[rowLenth];
+        int[] array = new int[arrayLength];
 
         for (int i = 0; i < array.Length; i++)
         {
@@ -22,39 +22,23 @@
 
         Console.WriteLine();
 
-        maxNumber = array[0];
-
-        if (maxNumber > array[1])
+        if (array[0] > array[1])
         {
-            Console.Write($"{maxNumber}  ");
-        }
-        else
-        {
-            maxNumber = array[1];
-            Console.Write($"{maxNumber}  ");
+            Console.Write($"{array[0]}  ");
         }
 
-        for (int i = 2; i < array.Length - 1; i++)
+        for (int i = 1; i < array.Length - 1; i++)
         {
-            if (maxNumber > array[i + 1] && maxNumber > array[i - 1])
+            if (array[i] > array[i + 1] && array[i] > array[i - 1])
             {
                 maxNumber = array[i];
                 Console.Write($"{maxNumber}  ");
             }
-            else
-            {
-                maxNumber = array[i + 1];
-            }
         }
 
-        if (maxNumber > array[rowLenth - 1])
+        if (array[array.Length - 1] > array[array.Length - 2])
         {
-            Console.Write($"{maxNumber}  ");
-        }
-        else
-        {
-            maxNumber = array[rowLenth - 1];
-            Console.Write($"{maxNumber}  ");
+            Console.Write($"{array[array.Length - 1]}  ");
         }
     }
 }
