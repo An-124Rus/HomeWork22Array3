@@ -13,6 +13,8 @@
 
         int[] array = new int[arrayLength];
 
+        int penultimateNumber = array.Length - 2;
+
         for (int i = 0; i < array.Length; i++)
         {
             array[i] = random.Next(minValue, maxValue);
@@ -29,14 +31,14 @@
 
         for (int i = 1; i < array.Length - 1; i++)
         {
-            if (array[i] > array[i + 1] && array[i] > array[i - 1])
+            if (array[i] >= array[i + 1] && array[i] >= array[i - 1])
             {
                 maxNumber = array[i];
                 Console.Write($"{maxNumber}  ");
             }
         }
 
-        if (array[array.Length - 1] > array[array.Length - 2])
+        if (array[array.Length - 1] > array[penultimateNumber])
         {
             Console.Write($"{array[array.Length - 1]}  ");
         }
